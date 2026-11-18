@@ -1,0 +1,18 @@
+{
+  "verdict": {
+    "decision": "Release",
+    "n_errors": 0,
+    "n_warn_images": 16,
+    "n_images": 203,
+    "warn_ratio": 0.0788,
+    "reasons": [
+      "đạt yêu cầu phát hành (0 lỗi bắt buộc, 16/203 ảnh có cảnh báo (7.88%) < 10.00%)"
+    ]
+  },
+  "reviewed": 80,
+  "budget": 80,
+  "seconds": 3.1,
+  "exported": "/mnt/samsung/Project/aithucchien/K5-L23-DAY09-2A202603204-AutoQCPipeline/submission/export/clean_v1",
+  "config_sha1": "cadafff65c40cdf3e291aca5320542fca17619bd",
+  "review_sim_sha1": "7988ca22827f780a7043a2300490e679a1697154"
+}
