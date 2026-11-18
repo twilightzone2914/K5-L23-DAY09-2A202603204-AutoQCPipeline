@@ -1,4 +1,4 @@
-# Báo cáo Day 09 — khaikhaipq69, 2A202603204
+# Báo cáo Day 09 — Mai Quang Khải, 2A202603204
 
 ## 1. Kết luận trước
 Pipeline đưa ra kết luận: **Release** (mã thoát: `0`), đạt đầy đủ tiêu chuẩn chất lượng để phát hành bộ dữ liệu.
